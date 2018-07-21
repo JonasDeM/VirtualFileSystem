@@ -1,7 +1,7 @@
 # Virtual File System
 ## What
 A small project to try out Multiplatform C++ Development. It's a virtual filesystem for both Linux and Windows. The design of the code was fully thought out by me.  
-**[SOURCE CODE](https://github.com/JonasDeM/VirtualFileSystem)**.
+**[Source Code](https://github.com/JonasDeM/VirtualFileSystem)**.
 
 ## Features
 * Works exactly the same on Linux and Windows
