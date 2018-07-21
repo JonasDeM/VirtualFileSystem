@@ -1,6 +1,7 @@
 # Virtual File System
 ## What
-A small project to try out Multiplatform C++ Development. It's a virtual filesystem for both Linux and Windows.  The design of the code was fully thought out by me.
+A small project to try out Multiplatform C++ Development. It's a virtual filesystem for both Linux and Windows. The design of the code was fully thought out by me.  
+**[SOURCE CODE](https://github.com/JonasDeM/VirtualFileSystem)**.
 
 ## Features
 * Works exactly the same on Linux and Windows
@@ -19,3 +20,19 @@ On my own
 
 ## Acknowledgements:
 Teachers [Pieter Vantorre](http://pietervantorre.com/) and [Julien Hamaide](https://www.linkedin.com/in/julienhamaide/) provided the idea to use Preprocessor #defines for multiplatform development.
+
+## All commands
+* searchPath
+* filesInDir
+* extInDir
+* mountZip
+* open
+* openRead
+* read
+* write
+* close
+* specifySearch 
+* resetSearch
+* exit
+
+ Find the barebones demo [here](https://github.com/JonasDeM/VirtualFileSystem/releases)
